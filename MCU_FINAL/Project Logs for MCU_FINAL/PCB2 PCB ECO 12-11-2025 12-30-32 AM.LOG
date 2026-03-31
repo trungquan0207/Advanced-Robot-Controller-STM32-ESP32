@@ -1,0 +1,4 @@
+Change Component Comment : Designator=H2 Old Comment=MOTOR  New Comment=MOTOR
+Change Component Description : Designator=E1 Old Description=EMI Ferrite Chip Bead, 0805, 800MA, 120Ohms @100MHz, DCR Max 0.150Ohm New Description=EMI Ferrite Chip Bead, 0805, 800MA, 120Ohms @100MHz, DCR Max 0.150Ohm | Laird Performance Materials LI0805H121R-10
+Added Member To Class: ClassName=Sheet2 Member=Component H2 MOTOR
+Added Member To Class: ClassName=Sheet2 Member=Component H6 ENCODER

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=LCD1-13
+Removed Pin From Net: NetName=GND Pin=LCD1-13
+Removed Pin From Net: NetName=GND Pin=LCD1-13
+Removed Pin From Net: NetName=GND Pin=LCD1-13
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Change Net Name : Old Net Name=NetC12_1 New Net Name=3.3VDDA
+Added Member To Class: ClassName=Sheet2 Member=Component H1 MOTOR 
+Added Rule: Name=Schematic Supply Nets_1

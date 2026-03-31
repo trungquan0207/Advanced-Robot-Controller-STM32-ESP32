@@ -1,0 +1,6 @@
+Added Component: Designator=LCD1(LCD-I2C-1602)
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=3.3V Pin=LCD1-2
+Added Pin To Net: NetName=I2C1_SDA Pin=LCD1-3
+Added Pin To Net: NetName=I2C1_SCL Pin=LCD1-4
+Added Member To Class: ClassName=Sheet3 Member=Component LCD1 LCD 1602

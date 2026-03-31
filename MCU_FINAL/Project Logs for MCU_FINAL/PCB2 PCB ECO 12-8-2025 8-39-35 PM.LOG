@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=WIN/TXD3 Pin=H6-2
+Removed Pin From Net: NetName=WIN/RXD3 Pin=H6-3
+Added Pin To Net: NetName=ESP/RXD2 Pin=H6-2
+Added Pin To Net: NetName=ESP/TXD2 Pin=H6-3
+Added Member To Class: ClassName=Sheet2 Member=Component R17 10k

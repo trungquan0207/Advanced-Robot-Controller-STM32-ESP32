@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=M+ Pin=H2-1
+Removed Pin From Net: NetName=M- Pin=H2-2
+Change Component Designator: OldDesignator=3.3V NewDesignator=L5
+Added Pin To Net: NetName=M- Pin=H2-1
+Added Pin To Net: NetName=M+ Pin=H2-2

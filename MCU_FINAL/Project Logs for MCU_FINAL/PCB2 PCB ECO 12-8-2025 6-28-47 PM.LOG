@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=U2 Old Footprint=STM-LQFP100_V New Footprint=STM-LQFP100_N
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H4
+Added Member To Class: ClassName=Sheet2 Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet2 Member=Component BT2 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet2 Member=Component BT3 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet2 Member=Component C19 22pF
+Added Member To Class: ClassName=Sheet2 Member=Component C20 104
+Added Member To Class: ClassName=Sheet2 Member=Component C22 225
+Added Member To Class: ClassName=Sheet2 Member=Component C23 104
+Added Member To Class: ClassName=Sheet2 Member=Component C24 104
+Added Member To Class: ClassName=Sheet2 Member=Component H5 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component H6 UART3
+Added Member To Class: ClassName=Sheet2 Member=Component R2 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R4 220R
+Added Member To Class: ClassName=Sheet2 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R7 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R8 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R11 220R

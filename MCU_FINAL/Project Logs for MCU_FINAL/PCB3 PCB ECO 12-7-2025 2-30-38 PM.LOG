@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=XT1 NewDesignator=XT2
+Added Component: Designator=XT1(Thach Anh 4 chan 3)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Component: Designator=XT3(Thach Anh 4 chan 2)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet3 Member=Component XT2 20Mhz
+Added Member To Class: ClassName=Sheet3 Member=Component XT3 20Mhz

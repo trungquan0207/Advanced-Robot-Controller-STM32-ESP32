@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ESP/RXD2 Pin=H6-2
+Removed Pin From Net: NetName=ESP/TXD2 Pin=H6-3
+Change Component Comment : Designator=H2 Old Comment=Header 2P 2.54 Duc Thang New Comment=MOTOR 
+Change Component Comment : Designator=H7 Old Comment=Header 4P 2.54 Duc Thang New Comment=ENCODER
+Change Component Designator: OldDesignator=H1 NewDesignator=H2
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Added Pin To Net: NetName=WIN/RX Pin=H6-3
+Added Pin To Net: NetName=WIN/RX Pin=U2-69
+Added Net: Name=WIN/RX
+Added Pin To Net: NetName=WIN/TX Pin=H6-2
+Added Pin To Net: NetName=WIN/TX Pin=U2-68
+Added Net: Name=WIN/TX

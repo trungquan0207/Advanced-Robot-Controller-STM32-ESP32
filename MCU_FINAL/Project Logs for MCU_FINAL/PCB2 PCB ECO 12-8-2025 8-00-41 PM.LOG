@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C3 Old Footprint=tu hoa 5mm New Footprint=tu tantalum smd7343
+Change component parameters: Designator = "C3" ("C3"); Footprint = "tu hoa 5mm"; UniqueID = "\CPUWYCTE" ("\CPUWYCTE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008401"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 107T-100uF 50V SMD7343"; VariantName = "[No Variations]"

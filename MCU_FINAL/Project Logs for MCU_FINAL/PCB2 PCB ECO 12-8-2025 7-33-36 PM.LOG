@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MCU_RPWM Pin=R4-1
+Removed Pin From Net: NetName=MCU_LPWM Pin=R9-1
+Added Pin To Net: NetName=MCU_LPWM Pin=R4-1
+Added Pin To Net: NetName=MCU_RPWM Pin=R9-1
+Added Member To Class: ClassName=Sheet2 Member=Component H2 Header 2P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component H3 Header 2P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component H4 Header 2P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component H7 Header 4P 2.54 Duc Thang

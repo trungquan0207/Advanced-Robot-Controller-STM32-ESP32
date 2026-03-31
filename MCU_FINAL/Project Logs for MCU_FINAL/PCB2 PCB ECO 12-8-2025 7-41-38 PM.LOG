@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED/UART Pin=U2-1
+Removed Pin From Net: NetName=LED/VEL Pin=U2-2
+Removed Pin From Net: NetName=LED/PWM Pin=U2-3
+Added Pin To Net: NetName=LED/UART Pin=U2-51
+Added Pin To Net: NetName=LED/VEL Pin=U2-52
+Added Pin To Net: NetName=LED/PWM Pin=U2-53

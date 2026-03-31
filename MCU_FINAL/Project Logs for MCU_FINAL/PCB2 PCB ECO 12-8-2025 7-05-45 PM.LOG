@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=M+ Pin=H4-1
+Removed Pin From Net: NetName=GND Pin=H4-2
+Removed Pin From Net: NetName=ENCODER_A Pin=H4-3
+Removed Pin From Net: NetName=ENCODER_B Pin=H4-4
+Removed Pin From Net: NetName=3.3V Pin=H4-5
+Removed Pin From Net: NetName=M- Pin=H4-6
+Change Component Designator: OldDesignator=H2 NewDesignator=H3
+Change Component Designator: OldDesignator=H3 NewDesignator=H4
+Change Component Designator: OldDesignator=H7 NewDesignator=H8
+Added Component: Designator=H2(XH2.54M-2)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H7(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M+ Pin=H2-1
+Added Pin To Net: NetName=M- Pin=H2-2
+Added Pin To Net: NetName=3.3V Pin=H7-1
+Added Pin To Net: NetName=ENCODER_B Pin=H7-2
+Added Pin To Net: NetName=ENCODER_A Pin=H7-3
+Added Pin To Net: NetName=GND Pin=H7-4
+Added Member To Class: ClassName=Sheet2 Member=Component H5 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component H8 Header 2P 2.54 Duc Thang
